@@ -104,7 +104,7 @@ http://192.168.2.1:4022/rtp/239.3.1.138:8044
 http://192.168.2.1:4022/rtp/239.3.1.123:8164
 #EXTINF:-1 tvg-name="吉林卫视" tvg-id="51" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视频道“,吉林卫视
 http://192.168.2.1:4022/rtp/239.3.1.240:8172
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="52" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimenggu.png" group-title="卫视频道“,内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="52" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道“,内蒙古卫视
 http://192.168.2.1:4022/rtp/239.3.1.43:8176
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-id="53" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视频道“,宁夏卫视
 http://192.168.2.1:4022/rtp/239.3.1.46:8124
