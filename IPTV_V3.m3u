@@ -126,8 +126,6 @@ http://192.168.2.30:9999/rtp/239.3.1.143:4120
 http://192.168.2.30:9999/rtp/239.3.1.47:8164
 #EXTINF:-1 tvg-name="三沙卫视" tvg-id="72" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视频道“,三沙卫视
 http://192.168.2.30:9999/rtp/239.3.1.155:4120
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-id="" tvg-logo="" group-title="卫视频道“,大湾区卫视
-http://192.168.2.30:9999/rtp/239.3.1.161:8001
 #EXTINF:-1 tvg-name="中国交通频道" tvg-id="1994" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="卫视频道“,中国交通
 http://192.168.2.30:9999/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="6010" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="卫视频道“,嘉佳卡通
@@ -136,7 +134,6 @@ http://192.168.2.30:9999/rtp/239.3.1.147:9268
 http://192.168.2.30:9999/rtp/239.3.1.51:9252
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-id="2025" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视频道“,金鹰纪实
 http://192.168.2.30:9999/rtp/239.3.1.58:8156
-
 #EXTINF:-1 tvg-name="中国教育1台" tvg-id="73" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="教育频道“,CETV1
 http://192.168.2.30:9999/rtp/239.3.1.57:8152
 #EXTINF:-1 tvg-name="中国教育2台" tvg-id="74" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="教育频道“,CETV2
